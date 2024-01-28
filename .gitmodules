@@ -1,0 +1,6 @@
+[submodule "strii-backend"]
+	path = strii-backend
+	url = https://github.com/ryuichi-works/strii-backend.git
+[submodule "strii-frontend"]
+	path = strii-frontend
+	url = https://github.com/ryuichi-works/strii-frontend.git
